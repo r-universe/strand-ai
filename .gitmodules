@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/strand-ai/strand-ai.r-universe.dev
 	branch = HEAD
+[submodule "strandai"]
+	path = strandai
+	url = https://github.com/Strand-AI/strand-sdk-r
+	branch = main
